@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_bg">#F6F1E7</color>
+    <color name="icon_bg">#F6F1E7</color>
+    <color name="icon_fg">#D9472B</color>
+    <style name="Theme.JlptDojo" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/window_bg</item>
+    </style>
+</resources>

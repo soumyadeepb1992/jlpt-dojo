@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- A torii gate: the entrance to the dojo -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- kasagi (top beam, upturned ends) -->
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M25,31 Q54,37 83,31 L81,39 Q54,43 27,39 Z" />
+    <!-- shimaki -->
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M31,40 L77,40 L77,44 L31,44 Z" />
+    <!-- gakuzuka (centre strut) -->
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M52,44 L56,44 L56,51 L52,51 Z" />
+    <!-- nuki (second beam) -->
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M29,51 L79,51 L79,56 L29,56 Z" />
+    <!-- pillars -->
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M36,44 L42,44 L43,81 L35,81 Z" />
+    <path
+        android:fillColor="@color/icon_fg"
+        android:pathData="M66,44 L72,44 L73,81 L65,81 Z" />
+</vector>
